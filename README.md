@@ -1,2 +1,2 @@
 # PicturesSort
-recursive Sort of your picture form iphone based on Exif creation date. 
+recursive Sort of your pictures form iphone based on Exif creation date. 

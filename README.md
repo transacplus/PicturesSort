@@ -1,6 +1,8 @@
 # PicturesSort
 Recursive Sort of your pictures form iphone based on Exif creation date. 
 
+pip install Pillow
+
 First, copy python script in the root directory you want to sort
 In Exif is not found then take the older of creation or modification date
 result : 
@@ -18,3 +20,4 @@ Deplacaement du fichier en dans le repertoir AAAA_MM
 Prerequis : mettre le fichier date.py a la base des images a ranger
 Exception : Information et non ecrasement du fichier
 Rangement des repertoires AAAA_MM sur dans AAAA
+
